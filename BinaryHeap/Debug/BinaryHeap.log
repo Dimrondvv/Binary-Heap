@@ -1,0 +1,10 @@
+﻿  BinaryHeap.cpp
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(221,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(221,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(227,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(128,22): warning C4018: '<': signed/unsigned mismatch
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(123): message : while compiling class template member function 'void Kopiec<int>::kopcowanieDol(int)'
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(70): message : see reference to function template instantiation 'void Kopiec<int>::kopcowanieDol(int)' being compiled
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(215): message : see reference to class template instantiation 'Kopiec<int>' being compiled
+D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\BinaryHeap\BinaryHeap.cpp(132,22): warning C4018: '<': signed/unsigned mismatch
+  BinaryHeap.vcxproj -> D:\Studia\Semestr3\Algorytmy2\KopiecBinarny\BinaryHeap\Debug\BinaryHeap.exe
